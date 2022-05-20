@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Help and Guidance</title>
+        <topicref href="../topics/help/help_and_guidance.dita">
+            <topicref href="../topics/help/faqs.dita"/>
+            <topicref href="../topics/help/standards.dita"/>
+            <topicref href="../topics/help/demonstrations.dita"/>
+            <topicref href="../topics/help/mailing.dita"/>
+            <topicref href="../topics/help/contact.dita"/>
+        </topicref>   
+</map>

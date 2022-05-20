@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>NHS Data Model and Dictionary</title>
+    <topicref id="allabout" href="../topics/about/about.dita" collection-type="sequence">
+        <topicref href="../topics/whats_new.dita"/>
+        <topicref href="../topics/about/publication.dita" collection-type="sequence">
+            <topicref href="../topics/about/mauro.dita"/>
+            <topicref href="../topics/about/dita_overview.dita"/>
+        </topicref>
+        <topicref href="../topics/notices/copyright.dita"/>
+        <topicref href="../topics/notices/privacy.dita"/>
+        <topicref href="../topics/notices/cookies.dita"/>
+        <topicref href="../topics/notices/accessibility.dita"/>
+        <topicref href="../topics/notices/terms_and_conditions.dita"/>
+    </topicref>
+    <topicref href="../topics/error.dita" toc="no"/>
+</map>

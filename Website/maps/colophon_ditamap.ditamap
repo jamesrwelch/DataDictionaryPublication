@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>colophon.ditamap</title>
+    <topicref href="../topics/about/publication.dita" collection-type="sequence">
+        <topicref href="../topics/about/mauro.dita"/>
+        <topicref href="../topics/about/dita_overview.dita"/>
+    </topicref>
+</map>

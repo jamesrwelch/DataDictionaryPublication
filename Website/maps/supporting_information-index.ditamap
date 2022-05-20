@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>Supporting Information</title>
+  <topicset id='supporting_information-index' href='../topics/supporting_information_overview.dita' toc='yes' linking='normal' >
+    <topicref href='../topics/Covid19PRA/covid19pra.ditamap' format='ditamap' toc='yes' linking='normal' chunk="by-topic" />
+    <topicref href='../topics/GPDataSet/GPDataSet.ditamap' format='ditamap' toc='yes' linking='normal' chunk="by-topic" />
+    <topicref href='../topics/supportingInformation.index.dita' toc='yes' linking='normal' />
+  </topicset>
+</map>
